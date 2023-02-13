@@ -2,4 +2,4 @@
 
 Hello everyone! This is a test project.
 
-I wrote this from Chromium via GitHub.
+I wrote this from Chrome via GitHub.
