@@ -1,3 +1,3 @@
 # Verbose-Robot
 
-Hello everyone!
+Hello everyone! This is a test project.
